@@ -1,5 +1,4 @@
-![Qiita Sync](https://github.com/<Your-ID>/<Your-Repository>/actions/workflows/qiita_sync_check.yml/badge.svg)
-
+![Qiita Sync](https://github.com/nknighta/nknighta-qiita/actions/workflows/qiita_sync_check.yml/badge.svg)
 # Qiita-Sync Template
 
 Template repository to synchronize markdown files with [Qiita](https://qiita.com/) site.
